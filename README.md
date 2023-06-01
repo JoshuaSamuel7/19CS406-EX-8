@@ -1,6 +1,6 @@
 # EX-8 APPLICATION USING TCP SOCKETS - CREATING ECHO CLIENT-SERVER
 
-## DATE : 24/04/2023
+## DATE : 26/04/2023
 
 ## AIM :
 To write a python program for creating Echo Client and Echo Server using TCP
@@ -19,7 +19,7 @@ send NACKsignal to client.
 
 ## PROGRAM :
 ## CLIENT :
-```
+```PYTHON 3
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
@@ -31,7 +31,7 @@ while True:
 ```
 
 ## SERVER :
-```
+```PYTHON 3
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
