@@ -44,10 +44,12 @@ while True:
 
 ## OUTPUT :
 ## CLIENT OUTPUT :
-![OUTPUT](./Screenshot%20(69).png)
+![8A](https://github.com/JoshuaSamuel7/19CS406-EX-8/assets/118343296/7a1cf8d5-c0b7-45ce-a128-29a68d0add62)
+
 
 ## SERVER OUTPUT :
-![OUTPUT](./Screenshot%20(70).png)
+![8B](https://github.com/JoshuaSamuel7/19CS406-EX-8/assets/118343296/4f77cbcc-5936-4f43-89bf-0134249ef519)
+
 
 
 ## RESULT :
